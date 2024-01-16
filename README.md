@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Quantitative Research
+- 🌱 I’m currently learning Python and Machine Learning 😃
+
 <!--
 **syzheng177/syzheng177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
